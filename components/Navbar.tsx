@@ -26,7 +26,7 @@ const Navbar = (props: Props) => {
           aria-label="Submit-search"
           className="flex items-center absolute h-[40px] p-4 rounded-lg top-0 right-0 z-10 bg-sec-yellow"
         >
-          <Search className="text-dark" />
+        <Search className="text-dark" />
         </button>
       </div>
       <ul className="flex flex-row gap-2 text-display font-bold w-[30%] h-auto justify-between items-center p-4">
