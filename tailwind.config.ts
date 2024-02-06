@@ -24,6 +24,10 @@ const config = {
       },
       backgroundImage: {
         gradientBg: "url('../public/assets/nav2.svg')",
+        styleBg: "url(https://images.unsplash.com/photo-1551232864-3f0890e580d9)",
+        fashionBg: "url(https://images.unsplash.com/photo-1525498128493-380d1990a112)",
+        exclusiveBg: "url(https://images.unsplash.com/photo-1579664531470-ac357f8f8e2b)",
+        shippingBg: "url(https://images.unsplash.com/photo-1587293852726-70cdb56c2866)",
       },
       colors: {
         "siljoq-primary": "#41cffa",
